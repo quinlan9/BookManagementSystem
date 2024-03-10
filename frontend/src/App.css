@@ -1,0 +1,8 @@
+@import url(https://unpkg.com/bootstrap@4.1.0/dist/css/bootstrap.min.css);
+
+body {
+    background-image: url('D:\REACTDEV\book-app\public\images\backgroundImage.jpeg'); /* 更新为你的图片路径 */
+    background-size: cover; /* 覆盖整个视口 */
+    background-repeat: no-repeat; /* 不重复背景图 */
+    background-attachment: fixed; /* 背景固定，内容滚动时背景不动 */
+}

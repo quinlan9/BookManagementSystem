@@ -1,0 +1,13 @@
+.add-book-wrapper{
+    margin-bottom:20px;
+}
+
+.card-table-container {
+    background: rgba(255, 255, 255, 0.7); /* 白色背景与50%的透明度 */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    margin-bottom: 20px;
+    min-height: 500px; /* 假设你希望卡片最大高度为500px */
+    overflow-y: auto; /* 内容超过最大高度时，卡片内出现滚动条 */
+  }
+  
